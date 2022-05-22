@@ -1,7 +1,9 @@
 ---
-title: "www.creedthoughts.gov.www/creedthoughts"
+title: "Maybe this will work a little better?"
 ---
 
-\begin{center} markdown design is my passion \end{center}
+Not sure if this worked as well as I wanted -- trying one more time.
+
+Can we use TeX? $x^2 + 5x + 4 = 0$
 
 

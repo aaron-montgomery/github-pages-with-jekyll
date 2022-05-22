@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "www.creedthoughts.gov.www/creedthoughts"
 ---
 
-I'm glad you are here. I plan to talk about ...
+\begin{center} markdown design is my passion \end{center}
+
+
